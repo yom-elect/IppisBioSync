@@ -1,0 +1,21 @@
+{
+  "name": "ippis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "express-validator": "^6.2.0",
+    "knex": "^0.19.3",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.19.2",
+    "rand-token": "^0.4.0"
+  }
+}
