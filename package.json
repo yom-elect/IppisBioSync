@@ -13,7 +13,7 @@
     "ejs": "^2.7.1",
     "express": "^4.17.1",
     "express-validator": "^6.2.0",
-    "knex": "^0.19.3",
+    "knex": "^2.4.0",
     "mysql": "^2.17.1",
     "nodemon": "^1.19.2",
     "rand-token": "^0.4.0"
